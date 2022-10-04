@@ -1,0 +1,6 @@
+git init
+git add -A
+git commit -m 'Added my project '
+git remote add origin git@github.com:wilbur61/HTML-CSS-Exercise-1-Essential_Training_solution
+git push -u -f origin master
+cd ..
